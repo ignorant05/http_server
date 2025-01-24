@@ -1,0 +1,12 @@
+# ninja log v6
+2	24	1737643592104298502	CMakeFiles/http_server.dir/main.cpp.o	1d917aa7c32ca6e7
+7210	7491	1737643599312875769	http_server	bd9d5dac960d81d1
+2	7019	1737643592104298502	CMakeFiles/http_server.dir/src/HandlingServerSideConnection.cpp.o	73440f65b79c77e7
+2	7705	1737588325252689193	CMakeFiles/http_server.dir/src/EstablishConnection.cpp.o	6fc62942a33e3e7f
+1	641	1737366624909676912	CMakeFiles/http_server.dir/src/main.cpp.o	bea313601d1259f3
+9	6492	1737571992515568950	CMakeFiles/http_server.dir/src/CheckForErrors.cpp.o	b6fe143d1e69ddfe
+1	712	1737560303396679856	CMakeFiles/http_server.dir/src/Serving.cpp.o	8fd7454c2846df92
+1	72	1737646414321107182	build.ninja	68ef7243dbbf3c26
+2	7209	1737643592104298502	CMakeFiles/http_server.dir/src/RespondingToClient.cpp.o	8362905bf11e087d
+2	6074	1737475332884436184	CMakeFiles/http_server.dir/src/HandlingClientRequest.cpp.o	d7cb75a4d3dd4592
+1	21	1737646414321107182	build.ninja	68ef7243dbbf3c26
